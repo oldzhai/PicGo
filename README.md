@@ -1,2 +1,3 @@
 # PicGo
 picGo搭建图床
+93238f954f8e4eba391ec197b552ad430202d392
